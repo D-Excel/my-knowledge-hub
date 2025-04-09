@@ -57,6 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
         console.log("โหลดหน้าแรก");
         topicTitle.textContent = "ข้อมูลการตอบคำถามลูกค้า D-Excel";
         topicContent.innerHTML = `
+            <p><span style="font-size: 1.5em; font-weight: bold;">รายละเอียดโปรโมชั่นและเงื่อนไขทั้งหมด "ถูกกว่าสังกะสี มีของแถม" อยู่ในเมนู โปรโมชั่น</span></p
+            <ul>
             <p><span style="font-size: 1.5em; font-weight: bold;">ความแตกต่างของคำถามจาก "แชท" หรือ "โทรศัพท์" อยู่ที่ <strong><วิธีการถาม></strong> และ <strong><ลักษณะของลูกค้า></strong></span></p>
             <p><strong>✅ ลูกค้าแชท (Social Media)</strong></p>
             <ul>
